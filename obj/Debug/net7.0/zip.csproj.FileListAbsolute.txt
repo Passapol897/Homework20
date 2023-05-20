@@ -1,0 +1,5 @@
+C:\Users\apeco\OneDrive\เดสก์ท็อป\zip\obj\Debug\net7.0\zip.csproj.AssemblyReference.cache
+C:\Users\apeco\OneDrive\เดสก์ท็อป\zip\obj\Debug\net7.0\zip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeco\OneDrive\เดสก์ท็อป\zip\obj\Debug\net7.0\zip.AssemblyInfoInputs.cache
+C:\Users\apeco\OneDrive\เดสก์ท็อป\zip\obj\Debug\net7.0\zip.AssemblyInfo.cs
+C:\Users\apeco\OneDrive\เดสก์ท็อป\zip\obj\Debug\net7.0\zip.csproj.CoreCompileInputs.cache
